@@ -1,0 +1,28 @@
+a{
+background-color: rgb(153, 255, 250);
+display: inline-table;
+flex-wrap: wrap;
+justify-content: baseline;
+}
+.header{
+background-color: #ED8080;
+}
+html{
+    background-color: #778899;
+}
+h2{
+   font-style: oblique;
+   text-decoration-style: solid;
+}
+.origami{
+    padding: 30px;
+    margin:25px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    margin: 0px;
+}
+title{
+    text-align: center;
+}
